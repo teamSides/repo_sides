@@ -1,0 +1,7 @@
+parameters:
+#    sides_entrainement.example.class: Sides\EntrainementBundle\Example
+
+services:
+#    sides_entrainement.example:
+#        class: %sides_entrainement.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
